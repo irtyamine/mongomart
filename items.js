@@ -208,7 +208,6 @@ function ItemDAO (database) {
         "use strict";
 
         /*
-         * TODO-lab4
          *
          * LAB #4: Add a review to an item document. Reviews are stored as an 
          * array value for the key "reviews". Each review has the fields: "name", "comment", 
